@@ -11,7 +11,7 @@ npm install
 ng serve
 ```
 
-## Available users - credencials
+## Available users - credentials
 
 ```
 username: admin, pass: admin
